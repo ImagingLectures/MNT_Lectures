@@ -1,2 +1,6 @@
-# MNT_Lectures
-Lecture notes and Exercises for lecture 1
+# MNT Lectures
+## Lecture 1 November 27th
+
+[Lecture notes]()
+
+[Assignment 1](https://github.com/ImagingLectures/image-processing-with-python-anderskaestner)
