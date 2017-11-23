@@ -1,4 +1,4 @@
-# MNT Lectures
+# MNT Image processing Lectures
 ## Lecture 1 November 27th
 
 [Lecture notes]()
