@@ -16,5 +16,5 @@ Lecture notes
 2. [Morphology 1](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology.pdf)
 3. [Morphology 2](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology2.pdf)
 
-* [Assignment 3: Segmentation](https://github.com/ImagingLectures/image-processing-with-python-anderskaestner)
-* [Assignment 4: Morphology](https://github.com/ImagingLectures/filters_anderskaestner)
+* [Assignment 3: Segmentation](https://github.com/ImagingLectures/segmentation-anderskaestner)
+* [Assignment 4: Morphology](https://github.com/ImagingLectures/morhpology_anderskaestner)
