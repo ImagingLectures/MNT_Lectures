@@ -17,7 +17,7 @@ Lecture notes
 3. [Morphology 2](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology2.pdf)
 
 * [Assignment 3: Segmentation](https://github.com/ImagingLectures/segmentation-anderskaestner)
-* [Assignment 4: Morphology](https://github.com/ImagingLectures/morhpology_anderskaestner)
+* [Assignment 4: Morphology](https://github.com/ImagingLectures/morphology_anderskaestner)
 
 ## Lecture 3: December 11th - Measurements and analysis strategies
 
