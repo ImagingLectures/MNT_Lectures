@@ -29,4 +29,28 @@ Lecture notes
 
 * [Final assignment: All at once](https://github.com/ImagingLectures/final_assignment)
 
-## Lecture 4: December 17th (Lecturer Kevin Mader)
+## Lecture 4: December 17th - What's Next? Scaling, Machine Learning and Beyond (Lecturer Kevin Mader)
+
+### Lecture notes
+- [Slides](http://nbviewer.jupyter.org/format/slides/github/ImagingLectures/MNT_Lectures/blob/master/Lecture4/04_lecture_beyond.ipynb)
+- [Handout](http://nbviewer.jupyter.org/github/ImagingLectures/MNT_Lectures/blob/master/Lecture4/04_lecture_beyond.ipynb)
+
+### Assignment
+- Sign up for a Kaggle Account (https://www.kaggle.com/)
+ - A few students can use the test account
+```
+username: rsna2017
+password: rsna2017
+ ```
+- Read about how kernels work: https://www.kaggle.com/docs/kernels
+
+#### Big Data
+- Using DAGs to Process Tomography Data in 3D https://www.kaggle.com/kmader/3d-image-analysis-using-dask
+
+#### Machine Learning
+- More background slides http://bit.ly/deeptexture 
+- Dataset on Kaggle https://www.kaggle.com/c/pneumonia-texture-analysis 
+- Visualizing Neural Networks https://www.kaggle.com/kmader/classifying-opacity-tiles-using-conx-gpu
+- First Model Experiments https://www.kaggle.com/kmader/texture-analysis-model-overview 
+- Submitting Results https://www.kaggle.com/kmader/texture-analysis-submission-overview
+
