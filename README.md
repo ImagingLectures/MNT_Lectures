@@ -48,9 +48,9 @@ password: rsna2017
 - Using DAGs to Process Tomography Data in 3D https://www.kaggle.com/kmader/3d-image-analysis-using-dask
 
 #### Machine Learning
-- More background slides http://bit.ly/deeptexture 
 - Dataset on Kaggle https://www.kaggle.com/c/pneumonia-texture-analysis 
-- Visualizing Neural Networks https://www.kaggle.com/kmader/classifying-opacity-tiles-using-conx-gpu
-- First Model Experiments https://www.kaggle.com/kmader/texture-analysis-model-overview 
-- Submitting Results https://www.kaggle.com/kmader/texture-analysis-submission-overview
+- Visualizing Neural Networks: https://www.kaggle.com/kmader/classifying-opacity-tiles-using-conx-gpu
+- First Model Tests: https://www.kaggle.com/kmader/texture-analysis-model-overview 
+- Submitting Results Notebook:  https://www.kaggle.com/kmader/texture-analysis-submission-overview
+- More background slides about the challenge: http://bit.ly/deeptexture 
 
